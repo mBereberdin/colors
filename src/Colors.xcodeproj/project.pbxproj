@@ -295,6 +295,7 @@
 				DEVELOPMENT_TEAM = 5CWR9QK3B6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Colors/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = .colors;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -323,6 +324,7 @@
 				DEVELOPMENT_TEAM = 5CWR9QK3B6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Colors/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = .colors;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
